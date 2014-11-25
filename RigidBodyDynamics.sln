@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RigidBodyDynamics", "RigidBodyDynamics\RigidBodyDynamics\RigidBodyDynamics.csproj", "{27B28F0D-4E00-408C-938A-DBE9C2F524B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RigidBodyDynamicsContent", "RigidBodyDynamics\RigidBodyDynamicsContent\RigidBodyDynamicsContent.contentproj", "{96A23EBF-0077-47FA-8204-F0E660924B84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27B28F0D-4E00-408C-938A-DBE9C2F524B8}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{27B28F0D-4E00-408C-938A-DBE9C2F524B8}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{27B28F0D-4E00-408C-938A-DBE9C2F524B8}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{27B28F0D-4E00-408C-938A-DBE9C2F524B8}.Debug|x86.ActiveCfg = Debug|x86
+		{27B28F0D-4E00-408C-938A-DBE9C2F524B8}.Debug|x86.Build.0 = Debug|x86
+		{27B28F0D-4E00-408C-938A-DBE9C2F524B8}.Release|Any CPU.ActiveCfg = Release|x86
+		{27B28F0D-4E00-408C-938A-DBE9C2F524B8}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{27B28F0D-4E00-408C-938A-DBE9C2F524B8}.Release|Mixed Platforms.Build.0 = Release|x86
+		{27B28F0D-4E00-408C-938A-DBE9C2F524B8}.Release|x86.ActiveCfg = Release|x86
+		{27B28F0D-4E00-408C-938A-DBE9C2F524B8}.Release|x86.Build.0 = Release|x86
+		{96A23EBF-0077-47FA-8204-F0E660924B84}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{96A23EBF-0077-47FA-8204-F0E660924B84}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{96A23EBF-0077-47FA-8204-F0E660924B84}.Debug|x86.ActiveCfg = Debug|x86
+		{96A23EBF-0077-47FA-8204-F0E660924B84}.Release|Any CPU.ActiveCfg = Release|x86
+		{96A23EBF-0077-47FA-8204-F0E660924B84}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{96A23EBF-0077-47FA-8204-F0E660924B84}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		ProjectTime_ProjectTimeVariables_Time = 198890000000
+	EndGlobalSection
+EndGlobal
